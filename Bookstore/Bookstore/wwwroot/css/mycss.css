@@ -1,0 +1,58 @@
+﻿/*John Berthelsen*/
+/*My Custom CSS*/
+
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-image: url('../img/balloon.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    text-align: center;
+}
+
+/*form {
+    outline: 5px solid #459FC4;
+    width: 500px;
+    margin: auto;
+    padding-top: 30px;
+    padding-right: 30px;
+    padding-bottom: 15px;
+    padding-left: 30px;
+    display: inline-block;
+    align-items: center;
+    background-color: white;
+    opacity: 0.8;
+}*/
+
+form.special {
+    outline: none;
+    background-color: transparent;
+    width: 500px;
+    margin: auto;
+    padding-top: 30px;
+    padding-right: 30px;
+    padding-bottom: 45px;
+    padding-left: 30px;
+    display: inline-block;
+    align-items: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+li {
+    text-align: left;
+}
+
+p {
+    text-align: center;
+}
+
+tbody {
+    opacity: 0.8;
+}

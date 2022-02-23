@@ -1,0 +1,57 @@
+﻿<Properties StartupConfiguration="{F0A22C6B-6264-440F-91F0-B8F08F64C49D}|Default">
+  <MonoDevelop.Ide.ItemProperties.Bookstore PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Bookstore/Controllers/HomeController.cs">
+    <Files>
+      <File FileName="Bookstore/Views/Home/Index.cshtml" Line="22" Column="11" />
+      <File FileName="Bookstore/Pages/_CartLayout.cshtml" Line="7" Column="38" />
+      <File FileName="Bookstore/wwwroot/css/mycss.css" Line="56" Column="6" />
+      <File FileName="Bookstore/Views/Shared/_Layout.cshtml" Line="37" Column="26" />
+      <File FileName="Bookstore/Pages/Cart.cshtml" Line="35" Column="12" />
+      <File FileName="Bookstore/Views/Shared/BookSummary.cshtml" Line="30" Column="25" />
+      <File FileName="Bookstore/Pages/Cart.cshtml.cs" Line="39" Column="64" />
+      <File FileName="Bookstore/Models/Basket.cs" Line="34" Column="54" />
+      <File FileName="Bookstore/Views/Shared/Components/Category/Default.cshtml" Line="15" Column="18" />
+      <File FileName="Bookstore/Controllers/HomeController.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Bookstore" expanded="True">
+            <Node name="Bookstore" expanded="True">
+              <Node name="Components" expanded="True" />
+              <Node name="Controllers" expanded="True">
+                <Node name="HomeController.cs" selected="True" />
+              </Node>
+              <Node name="Infrastructure" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Pages" expanded="True">
+                <Node name="Cart.cshtml" expanded="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True">
+                  <Node name="Components" expanded="True">
+                    <Node name="Category" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
